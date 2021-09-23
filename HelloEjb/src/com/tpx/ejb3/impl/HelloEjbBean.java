@@ -13,7 +13,7 @@ public class HelloEjbBean implements HelloEjb {
 	@Override
 	public String sayHello(String name) {
 		// TODO Auto-generated method stub
-		return name;
+		return name+"!!1";
 	}
 
 }
